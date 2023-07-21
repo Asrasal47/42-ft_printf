@@ -1,4 +1,4 @@
-# ft_printf
+# 42-ft_printf
 
 ## Introduction
 ft_printf is a project focused on recreating the renowned printf function from the C Standard Library.

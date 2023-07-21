@@ -35,8 +35,7 @@ Supports the following conversions:
 git clone https://github.com/Asrasal47/42-ft_printf.git
 ```
 ```sh
-cd 42-ft_printf
-make
+cd 42-ft_printf && make
 ```
 This will compile the library and generate a libftprintf.a file.
 
